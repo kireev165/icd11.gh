@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : book-medical
   - title                                 : Search
     description                           : Search by a code or a title
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : search
   - title                                 : 5 Languages
     description                           : Arabic, English, Spanish, French and Chinese
     fontawesome_icon_name                 : language
