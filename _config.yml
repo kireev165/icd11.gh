@@ -34,9 +34,6 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-  - title                                 : ICD-11
-    description                           : International Classification of Diseases 11th Revision
-    fontawesome_icon_name                 : book-medical
   - title                                 : Search
     description                           : Search by a code or a title
     fontawesome_icon_name                 : search
